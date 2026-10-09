@@ -44,10 +44,10 @@
 
 独立开发者，曾就职于 [华为] 等大厂，超过12年云计算研发，精通ES云服务，擅长JAVA, Python开发，独立运营snapbyface人脸识别、照片分组项目，专注于桌面端 AI 工具产品
 
-- X (Twitter)：[占位符]
-- YouTube：[占位符]
+- X (Twitter)：https://x.com/@DengXiaoho71001
+- YouTube：https://www.youtube.com/@xiaohongdeng-q1y
 - 知乎：https://www.zhihu.com/people/exeta1
-- Product Hunt：[占位符]
+- Product Hunt：https://www.producthunt.com/products/snapbyface?launch=snapbyface
 
 ## 我的产品 —— SnapByFace
 
