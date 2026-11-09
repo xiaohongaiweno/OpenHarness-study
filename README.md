@@ -50,6 +50,7 @@
 - Product Hunt：https://www.producthunt.com/products/snapbyface?launch=snapbyface
 - 领英：www.linkedin.com/in/xiaohong-deng-781b1b443
 - github: https://github.com/xiaohongaiweno
+- SantaWheel：https://santawheel.com —— 免费在线 Secret Santa（神秘圣诞老人）抽签工具：无需注册，粘贴名单一键配对，支持排除规则（夫妻/上下级互不抽取）、私密链接分发、匿名问答、愿望清单与白象换礼游戏模式
 
 ## 我的产品 —— SnapByFace
 
