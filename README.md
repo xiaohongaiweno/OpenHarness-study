@@ -42,7 +42,7 @@
 
 ## 关于作者
 
-独立开发者，曾就职于 [华为] 等大厂，超过12年云计算研发，精通ES云服务，擅长JAVA, Python开发，独立运营snapbyface人脸识别、照片分组项目，专注于桌面端 AI 工具产品
+独立开发者，曾就职于 [华为] 等大厂，超过12年云计算研发，精通ES云服务，擅长JAVA, Python开发，独立运营 SnapByFace 人脸识别、照片分组项目与 SantaWheel 圣诞抽签工具，专注于 AI 工具产品
 
 - X (Twitter)：https://x.com/@DengXiaoho71001
 - YouTube：https://www.youtube.com/@xiaohongdeng-q1y
@@ -50,9 +50,10 @@
 - Product Hunt：https://www.producthunt.com/products/snapbyface?launch=snapbyface
 - 领英：www.linkedin.com/in/xiaohong-deng-781b1b443
 - github: https://github.com/xiaohongaiweno
-- SantaWheel：https://santawheel.com —— 免费在线 Secret Santa（神秘圣诞老人）抽签工具：无需注册，粘贴名单一键配对，支持排除规则（夫妻/上下级互不抽取）、私密链接分发、匿名问答、愿望清单与白象换礼游戏模式
 
-## 我的产品 —— SnapByFace
+## 我的产品
+
+### SnapByFace —— 离线优先的桌面端人脸搜索工具
 
 SnapByFace 是一款离线优先的桌面端人脸搜索与整理工具，支持 macOS 与 Windows。
 
@@ -63,3 +64,17 @@ SnapByFace 是一款离线优先的桌面端人脸搜索与整理工具，支持
 - **多语言**：支持中文 / 英文双语界面
 
 官网：https://snapbyface.com/
+
+### SantaWheel —— 免费在线 Secret Santa 抽签工具
+
+SantaWheel 是一款免注册的在线圣诞礼物交换（Secret Santa）抽签工具，浏览器打开即用，手机与电脑均可，最多支持 100 人。
+
+- **一键抽签**：粘贴参与者名单即可自动配对，保证不会抽到自己、不会重复分配，并带重抽保护
+- **排除规则**：可设置夫妻/情侣、上下级等互不抽取，规则双向生效；规则冲突导致无法抽签时会明确提示
+- **多种分发方式**：邮件自动派发、私密链接（通过 WhatsApp/短信等任意渠道发放，无需邮箱）、自主加入链接三种模式
+- **隐私保护**：盲抽模式下连组织者也不知道谁抽了谁；支持匿名问答（询问尺码、喜好等），组织者亦不可见
+- **愿望清单**：参与者可填写礼物愿望与收货地址，地址仅对抽中者可见
+- **白象换礼模式**：支持 White Elephant / Yankee Swap / Dirty Santa，自动生成拆礼与偷礼顺序（含 3 次偷礼锁定规则）
+- **定时开奖**：可设定具体时间自动抽取，也可随时取消或手动抽取
+
+官网：https://santawheel.com
